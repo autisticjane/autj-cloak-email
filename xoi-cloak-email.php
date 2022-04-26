@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name: XOI Cloak Email
- * Plugin Description: Simple email cloaking shortcode for WP. Shortcode [cloak email=you@domain.com]
+ * Description: Simple email cloaking shortcode for WP. Shortcode <code>[cloak email=you@domain.com]</code>
  * Plugin URI: https://github.com/izzylively/xoi-cloak-email/releases/
  * Author: Izzy Lively
  * Author URI: https://github.com/izzylively/xoi-cloak-email/
