@@ -1,14 +1,14 @@
 <?php
 
 /*
- * Plugin Name: XOI Cloak Email
+ * Plugin Name: AuJ Cloak Email
  * Description: Simple email cloaking shortcode for WP. Shortcode <code>[cloak email=you@domain.com]</code>
  * Plugin URI: https://github.com/izzylively/xoi-cloak-email/releases/
- * Author: Izzy Lively
- * Author URI: https://github.com/izzylively/xoi-cloak-email/
- * Text Domain: xoi-cloak-email
+ * Author: Jane Lively
+ * Author URI: https://autisticjane.com
+ * Text Domain: autj-cloak-email
  * License: GPL 3+
- * Version: 1.0.0
+ * Version: 2.0.0
 */
 
 // Add Shortcode
