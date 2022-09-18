@@ -1,4 +1,4 @@
-# XOI Cloak Email
+# AutJ Cloak Email
 Simple WP plugin to cloak email. Created plugin from https://generatewp.com/shortcodes/?clone=ql24gbG.
 
 Protect your email from spam/bots by using this shortcode.
